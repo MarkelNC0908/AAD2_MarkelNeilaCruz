@@ -82,7 +82,7 @@ Partial Class Principal
         'PictureBox4
         '
         Me.PictureBox4.ImageLocation = ""
-        Me.PictureBox4.Location = New System.Drawing.Point(213, 463)
+        Me.PictureBox4.Location = New System.Drawing.Point(213, 434)
         Me.PictureBox4.Margin = New System.Windows.Forms.Padding(4)
         Me.PictureBox4.Name = "PictureBox4"
         Me.PictureBox4.Size = New System.Drawing.Size(271, 327)
@@ -93,7 +93,7 @@ Partial Class Principal
         'PictureBox5
         '
         Me.PictureBox5.ImageLocation = ""
-        Me.PictureBox5.Location = New System.Drawing.Point(556, 463)
+        Me.PictureBox5.Location = New System.Drawing.Point(556, 434)
         Me.PictureBox5.Margin = New System.Windows.Forms.Padding(4)
         Me.PictureBox5.Name = "PictureBox5"
         Me.PictureBox5.Size = New System.Drawing.Size(271, 327)
@@ -177,7 +177,7 @@ Partial Class Principal
         '
         Me.LBLSala4.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LBLSala4.ForeColor = System.Drawing.Color.White
-        Me.LBLSala4.Location = New System.Drawing.Point(213, 833)
+        Me.LBLSala4.Location = New System.Drawing.Point(213, 804)
         Me.LBLSala4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LBLSala4.Name = "LBLSala4"
         Me.LBLSala4.Size = New System.Drawing.Size(271, 28)
@@ -189,7 +189,7 @@ Partial Class Principal
         '
         Me.LBLTitulo4.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LBLTitulo4.ForeColor = System.Drawing.Color.White
-        Me.LBLTitulo4.Location = New System.Drawing.Point(213, 794)
+        Me.LBLTitulo4.Location = New System.Drawing.Point(213, 765)
         Me.LBLTitulo4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LBLTitulo4.Name = "LBLTitulo4"
         Me.LBLTitulo4.Size = New System.Drawing.Size(271, 28)
@@ -201,7 +201,7 @@ Partial Class Principal
         '
         Me.LBLSala5.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LBLSala5.ForeColor = System.Drawing.Color.White
-        Me.LBLSala5.Location = New System.Drawing.Point(556, 833)
+        Me.LBLSala5.Location = New System.Drawing.Point(556, 804)
         Me.LBLSala5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LBLSala5.Name = "LBLSala5"
         Me.LBLSala5.Size = New System.Drawing.Size(271, 28)
@@ -213,7 +213,7 @@ Partial Class Principal
         '
         Me.LBLTitulo5.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LBLTitulo5.ForeColor = System.Drawing.Color.White
-        Me.LBLTitulo5.Location = New System.Drawing.Point(556, 794)
+        Me.LBLTitulo5.Location = New System.Drawing.Point(556, 765)
         Me.LBLTitulo5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LBLTitulo5.Name = "LBLTitulo5"
         Me.LBLTitulo5.Size = New System.Drawing.Size(271, 28)
@@ -223,7 +223,7 @@ Partial Class Principal
         '
         'BTNSalir
         '
-        Me.BTNSalir.Location = New System.Drawing.Point(1327, 786)
+        Me.BTNSalir.Location = New System.Drawing.Point(1329, 784)
         Me.BTNSalir.Margin = New System.Windows.Forms.Padding(4)
         Me.BTNSalir.Name = "BTNSalir"
         Me.BTNSalir.Size = New System.Drawing.Size(136, 48)
@@ -233,7 +233,7 @@ Partial Class Principal
         '
         'BtnCreditos
         '
-        Me.BtnCreditos.Location = New System.Drawing.Point(1128, 786)
+        Me.BtnCreditos.Location = New System.Drawing.Point(1130, 784)
         Me.BtnCreditos.Margin = New System.Windows.Forms.Padding(4)
         Me.BtnCreditos.Name = "BtnCreditos"
         Me.BtnCreditos.Size = New System.Drawing.Size(136, 48)
@@ -245,6 +245,7 @@ Partial Class Principal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(25, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(25, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(1612, 879)
         Me.Controls.Add(Me.BtnCreditos)
@@ -266,6 +267,7 @@ Partial Class Principal
         Me.Controls.Add(Me.PictureBox1)
         Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Principal"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "HOME"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()

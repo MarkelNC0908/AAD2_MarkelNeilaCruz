@@ -80,6 +80,7 @@ Partial Class Creditos
         Me.Controls.Add(Me.LBLNombreGitHub)
         Me.Controls.Add(Me.pbGitHub)
         Me.Name = "Creditos"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Creditos"
         CType(Me.pbGitHub, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)

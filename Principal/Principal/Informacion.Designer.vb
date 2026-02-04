@@ -72,7 +72,7 @@ Partial Class Informacion
         'pbImagenGrande
         '
         Me.pbImagenGrande.Location = New System.Drawing.Point(67, 98)
-        Me.pbImagenGrande.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.pbImagenGrande.Margin = New System.Windows.Forms.Padding(4)
         Me.pbImagenGrande.Name = "pbImagenGrande"
         Me.pbImagenGrande.Size = New System.Drawing.Size(400, 554)
         Me.pbImagenGrande.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
@@ -82,7 +82,7 @@ Partial Class Informacion
         'btnVolver
         '
         Me.btnVolver.Location = New System.Drawing.Point(877, 591)
-        Me.btnVolver.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnVolver.Margin = New System.Windows.Forms.Padding(4)
         Me.btnVolver.Name = "btnVolver"
         Me.btnVolver.Size = New System.Drawing.Size(189, 62)
         Me.btnVolver.TabIndex = 7
@@ -120,7 +120,7 @@ Partial Class Informacion
         Me.txtSinopsis.Font = New System.Drawing.Font("Segoe UI", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtSinopsis.ForeColor = System.Drawing.Color.White
         Me.txtSinopsis.Location = New System.Drawing.Point(567, 334)
-        Me.txtSinopsis.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtSinopsis.Margin = New System.Windows.Forms.Padding(4)
         Me.txtSinopsis.Name = "txtSinopsis"
         Me.txtSinopsis.ReadOnly = True
         Me.txtSinopsis.Size = New System.Drawing.Size(464, 217)
@@ -152,8 +152,9 @@ Partial Class Informacion
         Me.Controls.Add(Me.lblPrecio)
         Me.Controls.Add(Me.lblSala)
         Me.Controls.Add(Me.lblTitulo)
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Informacion"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Informacion"
         CType(Me.pbImagenGrande, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)

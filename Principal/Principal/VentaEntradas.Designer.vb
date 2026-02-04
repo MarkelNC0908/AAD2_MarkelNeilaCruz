@@ -28,6 +28,7 @@ Partial Class VentaEntradas
         Me.Label1 = New System.Windows.Forms.Label()
         Me.BtnComprar = New System.Windows.Forms.Button()
         Me.lblDisponibles = New System.Windows.Forms.Label()
+        Me.BTNSalir = New System.Windows.Forms.Button()
         CType(Me.NumEntradas, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -47,7 +48,7 @@ Partial Class VentaEntradas
         Me.lblNumEntradas.AutoSize = True
         Me.lblNumEntradas.Font = New System.Drawing.Font("Segoe UI", 12.0!)
         Me.lblNumEntradas.ForeColor = System.Drawing.Color.Silver
-        Me.lblNumEntradas.Location = New System.Drawing.Point(286, 379)
+        Me.lblNumEntradas.Location = New System.Drawing.Point(221, 379)
         Me.lblNumEntradas.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblNumEntradas.Name = "lblNumEntradas"
         Me.lblNumEntradas.Size = New System.Drawing.Size(69, 28)
@@ -74,7 +75,7 @@ Partial Class VentaEntradas
         '
         'BtnComprar
         '
-        Me.BtnComprar.Location = New System.Drawing.Point(544, 367)
+        Me.BtnComprar.Location = New System.Drawing.Point(471, 377)
         Me.BtnComprar.Name = "BtnComprar"
         Me.BtnComprar.Size = New System.Drawing.Size(141, 40)
         Me.BtnComprar.TabIndex = 13
@@ -92,12 +93,22 @@ Partial Class VentaEntradas
         Me.lblDisponibles.TabIndex = 14
         Me.lblDisponibles.Text = "Aaaa"
         '
+        'BTNSalir
+        '
+        Me.BTNSalir.Location = New System.Drawing.Point(647, 377)
+        Me.BTNSalir.Name = "BTNSalir"
+        Me.BTNSalir.Size = New System.Drawing.Size(141, 40)
+        Me.BTNSalir.TabIndex = 15
+        Me.BTNSalir.Text = "Volver"
+        Me.BTNSalir.UseVisualStyleBackColor = True
+        '
         'VentaEntradas
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(25, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(25, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.BTNSalir)
         Me.Controls.Add(Me.lblDisponibles)
         Me.Controls.Add(Me.BtnComprar)
         Me.Controls.Add(Me.Label1)
@@ -105,6 +116,7 @@ Partial Class VentaEntradas
         Me.Controls.Add(Me.lblNumEntradas)
         Me.Controls.Add(Me.lblTituloSeleccionado)
         Me.Name = "VentaEntradas"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Venta Entradas"
         CType(Me.NumEntradas, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
@@ -118,4 +130,5 @@ Partial Class VentaEntradas
     Friend WithEvents Label1 As Label
     Friend WithEvents BtnComprar As Button
     Friend WithEvents lblDisponibles As Label
+    Friend WithEvents BTNSalir As Button
 End Class

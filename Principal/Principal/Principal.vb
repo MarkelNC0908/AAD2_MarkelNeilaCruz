@@ -119,7 +119,7 @@ Public Class Principal
     End Sub
 
     Private Sub BtnCreditos_Click(sender As Object, e As EventArgs) Handles BtnCreditos.Click
-        Creditos.Show()
+        Creditos.ShowDialog()
     End Sub
 
     Private Sub BTNSalir_Click(sender As Object, e As EventArgs) Handles BTNSalir.Click

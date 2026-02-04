@@ -1,7 +1,6 @@
 ﻿Imports System.IO
 Imports MySql.Data.MySqlClient
 Imports System.Net
-
 Public Class VentaEntradas
     Private _precioUnidad As Double
     Private peliActual As Pelicula
@@ -73,5 +72,9 @@ Public Class VentaEntradas
             Principal.Show()
             Me.Close()
         End If
+    End Sub
+
+    Private Sub BTNSalir_Click(sender As Object, e As EventArgs) Handles BTNSalir.Click
+        Me.Close()
     End Sub
 End Class

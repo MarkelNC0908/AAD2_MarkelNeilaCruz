@@ -19,6 +19,6 @@
     Private Sub BtnComprar_Click(sender As Object, e As EventArgs) Handles BtnComprar.Click
         Dim PantallaVenta As New VentaEntradas()
         PantallaVenta.PrepararVenta(PeliActual)
-        PantallaVenta.Show()
+        PantallaVenta.ShowDialog()
     End Sub
 End Class
