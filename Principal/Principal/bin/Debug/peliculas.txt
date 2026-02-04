@@ -5,3 +5,6 @@ DUNE - Sala 2 - Total: 18,00 € - Cantidad: 2
 INCEPTION - Sala 1 - Total: 8,50 € - Cantidad: 1
 South Park - Sala 1 - Total: 34,00 € - Cantidad: 4
 South Park - Sala 1 - Total: 17,00 € - Cantidad: 2
+South Park - Sala 1 - Total: 17,00 € - Cantidad: 2
+DUNE - Sala 2 - Total: 18,00 € - Cantidad: 2
+South Park - Sala 1 - Total: 17,00 € - Cantidad: 2

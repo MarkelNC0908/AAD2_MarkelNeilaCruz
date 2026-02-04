@@ -1,0 +1,76 @@
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+-- https://www.phpmyadmin.net/
+--
+-- Servidor: 127.0.0.1
+-- Tiempo de generación: 04-02-2026 a las 12:49:21
+-- Versión del servidor: 10.4.32-MariaDB
+-- Versión de PHP: 8.2.12
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Base de datos: `cine`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `pelicula`
+--
+
+CREATE TABLE `pelicula` (
+  `IdPelicula` int(11) NOT NULL,
+  `Titulo` varchar(25) NOT NULL,
+  `Anio` year(4) NOT NULL,
+  `Duracion` int(11) NOT NULL,
+  `Sinopsis` text NOT NULL,
+  `URL_Imagen` varchar(200) NOT NULL,
+  `Cantidad_entradas_disponibles` int(11) NOT NULL,
+  `Sala` varchar(10) NOT NULL,
+  `Precio` decimal(10,2) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Volcado de datos para la tabla `pelicula`
+--
+
+INSERT INTO `pelicula` (`IdPelicula`, `Titulo`, `Anio`, `Duracion`, `Sinopsis`, `URL_Imagen`, `Cantidad_entradas_disponibles`, `Sala`, `Precio`) VALUES
+(1, 'South Park', '1998', 81, 'Cuando los estudiantes de la escuela primaria de South Park, Stan, Kyle, Cartman y Kenny, deciden entrar a escondidas a ver una película canadiense no apta para menores, su vocabulario sufre un cambio brutal. La indignación de los padres, tras el devastador impacto que sufren sus inocentes y jóvenes mentes al ver la película, da lugar a una incondicional guerra entre Estados Unidos y Canadá. Inesperadamente, los chicos se ven inmersos en una crisis debiendo arriesgar sus vidas en nombre de la libertad de expresión', 'https://es.web.img2.acsta.net/medias/nmedia/18/69/52/93/20140901.jpg', 9, 'Sala 1', 8.50),
+(2, 'DUNE', '2024', 166, 'Paul Atreides viaja al planeta más peligroso del universo para asegurar el futuro de su familia.', 'https://es.web.img3.acsta.net/pictures/21/08/25/14/35/3349802.jpg', 10, 'Sala 2', 9.00),
+(3, 'Soy Leyenda', '2007', 123, 'Año 2012. Robert Neville (Will Smith) es el último hombre vivo que hay sobre la Tierra, pero no está solo. Los demás seres humanos se han convertido en vampiros y todos ansían beber su sangre. Durante el día vive en estado de alerta, como un cazador, y busca a los muertos vivientes mientras duermen; pero durante la noche debe esconderse de ellos y esperar el amanecer. Esta pesadilla empezó hace tres años: Neville era un brillante científico, pero no pudo impedir la expansión de un terrible virus creado por el hombre. Él ha sobrevivido porque es inmune al virus; todos los días envía mensajes por radio con la esperanza de que haya otros supervivientes, pero es inútil. Lo único que puede hacer es buscar una fórmula que le permita utilizar su sangre inmune para devolverles a los hombres su naturaleza. Pero está en inferioridad de condiciones y el tiempo se acaba', 'https://www.ecartelera.com/carteles/1600/1643/001_m.jpg', 15, 'Sala 3', 9.00),
+(4, 'KILL BILL', '2003', 111, 'Tras despertar de un coma, una asesina profesional busca venganza contra su antiguo jefe.', 'https://es.web.img3.acsta.net/pictures/14/05/07/12/38/160972.jpg', 7, 'Sala 4', 9.00),
+(5, 'ZOOTRÓPOLIS 2', '2025', 170, 'Judy Hopps y Nick Wilde regresan en una nueva aventura por la metrópolis animal.', 'https://tickets.ocinepremiumgranvia.es/images/pelicules/9235.jpg', 3, 'Sala 5', 9.00);
+
+--
+-- Índices para tablas volcadas
+--
+
+--
+-- Indices de la tabla `pelicula`
+--
+ALTER TABLE `pelicula`
+  ADD PRIMARY KEY (`IdPelicula`);
+
+--
+-- AUTO_INCREMENT de las tablas volcadas
+--
+
+--
+-- AUTO_INCREMENT de la tabla `pelicula`
+--
+ALTER TABLE `pelicula`
+  MODIFY `IdPelicula` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
