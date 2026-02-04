@@ -20,5 +20,6 @@
         Dim PantallaVenta As New VentaEntradas()
         PantallaVenta.PrepararVenta(PeliActual)
         PantallaVenta.ShowDialog()
+        Me.Close()
     End Sub
 End Class

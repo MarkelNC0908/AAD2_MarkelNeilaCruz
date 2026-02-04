@@ -69,8 +69,9 @@ Public Class VentaEntradas
                             "Película: " & peliActual.Titulo & vbCrLf &
                             "Total: " & (NumEntradas.Value * _precioUnidad).ToString("C2"),
                             "Venta Confirmada", MessageBoxButtons.OK, MessageBoxIcon.Information)
-            Principal.Show()
             Me.Close()
+            Principal.Show()
+
         End If
     End Sub
 
