@@ -1,26 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marke\\source\\repos\\Principal\\",
+  "WorkspaceRootPath": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\source\\repos\\principal\\principal\\informacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\informacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\desktop\\examen aad\\aad2_markelneilacruz\\principal\\principal\\ventaentradas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\ventaentradas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\source\\repos\\principal\\principal\\informacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\desktop\\examen aad\\aad2_markelneilacruz\\principal\\principal\\informacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\informacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\source\\repos\\principal\\principal\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\desktop\\examen aad\\aad2_markelneilacruz\\principal\\principal\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\source\\repos\\principal\\principal\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\desktop\\examen aad\\aad2_markelneilacruz\\principal\\principal\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\source\\repos\\principal\\principal\\pelicula.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\desktop\\examen aad\\aad2_markelneilacruz\\principal\\principal\\informacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\informacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\desktop\\examen aad\\aad2_markelneilacruz\\principal\\principal\\creditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\creditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\desktop\\examen aad\\aad2_markelneilacruz\\principal\\principal\\creditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\creditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\desktop\\examen aad\\aad2_markelneilacruz\\principal\\principal\\pelicula.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\pelicula.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|c:\\users\\marke\\desktop\\examen aad\\aad2_markelneilacruz\\principal\\principal\\ventaentradas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{17AABCD5-0BC4-4D4A-A4A7-03349B284FF7}|Principal\\Principal.vbproj|solutionrelative:principal\\ventaentradas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,74 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pelicula.vb",
-              "DocumentMoniker": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Pelicula.vb",
-              "RelativeDocumentMoniker": "Principal\\Pelicula.vb",
-              "ToolTip": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Pelicula.vb",
-              "RelativeToolTip": "Principal\\Pelicula.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-02-03T23:19:27.373Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Informacion.vb",
-              "DocumentMoniker": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Informacion.vb",
-              "RelativeDocumentMoniker": "Principal\\Informacion.vb",
-              "ToolTip": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Informacion.vb",
-              "RelativeToolTip": "Principal\\Informacion.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Creditos.vb",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Creditos.vb",
+              "RelativeDocumentMoniker": "Principal\\Creditos.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Creditos.vb",
+              "RelativeToolTip": "Principal\\Creditos.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-02-03T23:51:29.325Z",
+              "WhenOpened": "2026-02-04T08:32:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Creditos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Creditos.vb",
+              "RelativeDocumentMoniker": "Principal\\Creditos.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Creditos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\Creditos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T08:29:07.434Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pelicula.vb",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Pelicula.vb",
+              "RelativeDocumentMoniker": "Principal\\Pelicula.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Pelicula.vb",
+              "RelativeToolTip": "Principal\\Pelicula.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:45:49.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Informacion.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Informacion.vb",
+              "Title": "VentaEntradas.vb",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\VentaEntradas.vb",
+              "RelativeDocumentMoniker": "Principal\\VentaEntradas.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\VentaEntradas.vb",
+              "RelativeToolTip": "Principal\\VentaEntradas.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:18:56.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Informacion.vb",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Informacion.vb",
               "RelativeDocumentMoniker": "Principal\\Informacion.vb",
-              "ToolTip": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Informacion.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Informacion.vb",
+              "RelativeToolTip": "Principal\\Informacion.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA6wBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:15:46.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Informacion.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Informacion.vb",
+              "RelativeDocumentMoniker": "Principal\\Informacion.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Informacion.vb [Dise\u00F1o]",
               "RelativeToolTip": "Principal\\Informacion.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-02-03T23:50:34.456Z",
+              "WhenOpened": "2026-02-04T07:14:03.542Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Principal.vb",
-              "DocumentMoniker": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Principal.vb",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Principal.vb",
               "RelativeDocumentMoniker": "Principal\\Principal.vb",
-              "ToolTip": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Principal.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Principal.vb",
               "RelativeToolTip": "Principal\\Principal.vb",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-02-03T23:13:24.054Z",
+              "WhenOpened": "2026-02-04T07:13:36.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Principal.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Principal.vb",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Principal.vb",
               "RelativeDocumentMoniker": "Principal\\Principal.vb",
-              "ToolTip": "C:\\Users\\marke\\source\\repos\\Principal\\Principal\\Principal.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\Principal.vb [Dise\u00F1o]",
               "RelativeToolTip": "Principal\\Principal.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-02-03T23:06:45.044Z",
+              "WhenOpened": "2026-02-04T07:13:19.296Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentaEntradas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\VentaEntradas.vb",
+              "RelativeDocumentMoniker": "Principal\\VentaEntradas.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\Examen AAD\\AAD2_MarkelNeilaCruz\\Principal\\Principal\\VentaEntradas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\VentaEntradas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:13:17.396Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

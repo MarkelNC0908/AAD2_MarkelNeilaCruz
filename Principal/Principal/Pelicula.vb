@@ -6,4 +6,5 @@
     Public Property Precio As Double
     Public Property Sinopsis As String
     Public Property Poster As Image
+    Public Property ButacasDisponibles As Integer
 End Class
